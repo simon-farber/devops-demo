@@ -1,5 +1,3 @@
-echo "# DevOps Demo
-
 This is a simple DevOps demo project with Flask, Docker, Kubernetes, and GitHub Actions.
 
 ## Structure
